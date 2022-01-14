@@ -1,0 +1,8 @@
+/*Ejemplo para centrar columnas en css con flexbox*/
+[selector o clase o id]{
+	display: flex;
+	flex-direction: column;
+	align-items: center; /*para alinear columnas de elementos se utiliza esta propiedad, para alinear rows es justify-content*/
+	justify-content;
+}
+
